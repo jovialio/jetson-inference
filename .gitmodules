@@ -12,7 +12,7 @@
 	branch = master
 [submodule "python/training/detection"]
 	path = python/training/detection
-	url = git@github.com:jovialio/pytorch-ssd.git
+	url = git@github.com:jovialio/pytorch-detection.git
 	branch = master
 [submodule "python/training/segmentation"]
 	path = python/training/segmentation
